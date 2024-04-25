@@ -1,0 +1,3 @@
+,Time Interpolation,Spline Interpolation,LOCF,RNN
+ABT.csv,"{'train_rmse': 0.16984258338355193, 'test_rmse': 0.08813240800626623}","{'train_rmse': 0.1972061781680871, 'test_rmse': 0.12881331853517344}","{'train_rmse': 0.2147790143895161, 'test_rmse': 0.10314255792619385}","{'train_rmse': 0.2583975733668366, 'test_rmse': 0.1437531491537863}"
+ACN.csv,"{'train_rmse': 0.13775239543459983, 'test_rmse': 0.05026533277763702}","{'train_rmse': 0.15284449427779762, 'test_rmse': 0.11968492844050424}","{'train_rmse': 0.1548156789443438, 'test_rmse': 0.08595797248519865}","{'train_rmse': 0.2118619068545014, 'test_rmse': 0.09303408384828293}"
